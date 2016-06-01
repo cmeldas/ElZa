@@ -1,0 +1,6 @@
+{
+  "name": "Elza",
+  "tagline": "",
+  "body": "# Univerzální elektronické zapalování\r\nUniverzální elektronické zapalování pro jedno a dvouválcové dvoutaktní motory\r\n\r\n\r\n## Odkaz na diplomovou práci, kterou všechno začalo:\r\n\r\nhttps://www.vutbr.cz/studium/zaverecne-prace?zp_id=91292\r\n\r\n \r\n\r\nK 1.6. bylo se zapalováním najeto více jak 300km ve Velorexu. Zatím funguje dobře.\r\n\r\nCo je potřeba udělat:\r\n\r\nZrychlit běh programu – přistupováním přímo na registry\r\nVše funguje, zatím testováno do 5500 ot.min-1 ve Velorexu\r\nPři otáčkách větších než 3000 ot.min-1 přestane vypisovat na serial\r\nPředělat časování na maximální předstih 50°.\r\n2 křivky předstihu na vypínač\r\nLadění předstihu potenciometrem\r\nVýstup na otáčkoměr do palubní desky\r\nVýstup na LCD, analog otáčkoměr\r\nZkusit ještě jednou WIFI – oddělit ji fyzicky od zapalování + oddělit komunikaci optočlenem\r\nSnímání teploty motoru termočlánkem (MAX6675)\r\nNějaké UI – ??\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
