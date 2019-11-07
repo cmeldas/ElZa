@@ -1,5 +1,6 @@
 # ElZa
 Elektronické zapalování
 
+Pokus o elektronické zapalování.
 
-http://tristopy.cz/zapalovani/
+
